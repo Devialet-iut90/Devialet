@@ -12,6 +12,9 @@
         font-size:6em;
         margin-top: 110px;
         text-shadow: 1px 4px 2px whitesmoke;
+        /*
+                vérifie et change les couleurs si besoin
+        */
     }
 
     #premiertrait{
@@ -26,4 +29,7 @@
         color: rgb(164,184,252);
         font-size: 3em;
         text-shadow: 1px 4px 2px black;
+        /*
+           vérifie et change les couleurs si besoin
+        */
     }
