@@ -1,0 +1,30 @@
+#fond1{
+        padding-top:60px;
+        background: url(photo1.png) no-repeat fixed 50% 50%;
+        background-color: rgba(0,40,190);
+        background-size: cover;
+        height: 799px;
+        }
+
+    h1 {
+        font-family: 'Dacing Script'cursive;    
+        text-align: center;
+        color: rgb(109, 104, 104);
+        font-size:6em;
+        margin-top: 110px;
+        text-shadow: 1px 4px 2px whitesmoke;
+    }
+
+    #premiertrait{
+        height: 2px;
+        width: 2px;
+        margin: -3px auto;
+        box-shadow: 1px 3px 4px black;
+    }
+
+    h3{
+        text-align: center;
+        color: rgb(164,184,252);
+        font-size: 3em;
+        text-shadow: 1px 4px 2px black;
+    }
