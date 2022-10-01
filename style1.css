@@ -1,35 +1,69 @@
-#fond1{
-        padding-top:60px;
-        background: url(https://img2.chinadaily.com.cn/images/202104/26/60861f0fa31024adbdc43abc.png) no-repeat fixed 50% 50%;
-        background-size: cover;
-        height: 799px;
-        }
+.container {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .1)), url('images1/fond.png');
+}
 
-    h1 {
-        font-family: 'Dacing Script'cursive;    
-        text-align: center;
-        color: rgb(109, 104, 104);
-        font-size:6em;
-        margin-top: 110px;
-        text-shadow: 1px 4px 2px whitesmoke;
-        /*
-                vérifie et change les couleurs si besoin
-        */
-    }
+h1 {
+    font-family: 'Dacing Script'cursive;    
+    text-align: center;
+    color: rgb(109, 104, 104);
+    font-size:6em;
+    margin-top: 110px;
+    text-shadow: 1px 4px 2px whitesmoke;
+    /*
+            vérifie et change les couleurs si besoin
+    */
+}
 
-    #premiertrait{
-        height: 2px;
-        width: 2px;
-        margin: -3px auto;
-        box-shadow: 1px 3px 4px black;
-    }
+#premiertrait{
+    height: 2px;
+    width: 2px;
+    margin: -3px auto;
+    box-shadow: 1px 3px 4px black;
+}
 
-    h3{
-        text-align: center;
-        color: rgb(164,184,252);
-        font-size: 3em;
-        text-shadow: 1px 4px 2px black;
-        /*
-           vérifie et change les couleurs si besoin
-        */
-    }
+h3{
+    text-align: center;
+    color: rgb(164,184,252);
+    font-size: 3em;
+    text-shadow: 1px 4px 2px black;
+    /*
+        vérifie et change les couleurs si besoin
+    */
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 5px 0;
+}
+
+nav .logo {
+    width: 120px;
+    height: 120px;
+    cursor: pointer;
+}
+
+nav ul {
+    display: flex;
+    justify-content: flex-end;
+    flex: 1;
+    padding-right: 40px;
+    text-align: right;
+    list-style-type: none;
+ }
+
+ul li {
+    margin-right: 10px;
+}
+
+ul li a {
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+}
