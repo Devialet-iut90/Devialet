@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+}
+
+.bloc {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+}
+
+h1 {
+    text-align: center;
+    font-size:6em;
+    margin-top: 240px;
+    color: black;
+    text-shadow: 5px 2px 4px white;
+
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 2px 0;
+    width: 70%;
+    background-color: #0000008a;
+    left: 15%;
+    position: fixed;
+    border-radius: 2em;
+    border-color: black;
+    backdrop-filter: saturate(180%) blur(20px);
+}
+
+nav .logo {
+    width: 120px;
+    cursor: pointer;
+    margin: 30px;
+}
+
+nav ul {
+    display: flex;
+    justify-content: flex-end;
+    flex: 1;
+    padding-right: 40px;
+    text-align: right;
+    list-style-type: none;
+ }
+
+ul li {
+    margin-right: 10px;
+}
+
+ul li a {
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+}
