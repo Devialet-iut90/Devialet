@@ -61,6 +61,7 @@ nav {
     background-color: #0000008a;
     left: 15%;
     position: fixed;
+    z-index: 10;
     border-radius: 2em;
     border-color: black;
     backdrop-filter: saturate(180%) blur(20px);
@@ -170,4 +171,64 @@ footer{
     text-transform: uppercase;
     opacity: .4;
     font-weight: 200;
+}
+
+
+.contenu-texte h4{
+    margin-left: 20px;
+    margin-top: 2em;
+    font-size: 2em;
+    text-align: center;
+}
+
+.contenu-texte span{
+    text-transform: uppercase;
+    opacity: .4;
+    font-weight: 200;
+}
+
+.contenu-image .image{
+    margin-top: 2em;
+    cursor: pointer;
+    float: right;
+    margin-right: 10px;
+}
+
+.defile{
+    display: flex;
+    animation-duration: 15s;
+    animation-name: mesImages;
+    animation-iteration-count: infinite;
+}
+
+#devialet{
+    width: 640px;
+    overflow: hidden; 
+    justify-content: center;
+    align-items: center;
+    height: 650px;
+    margin: auto;
+    border: solid;
+    margin-bottom: 10px;
+}
+
+@keyframes mesImages{
+    0% {
+        transform: translateX(0);
+    }
+    20% {
+        transform: translateX(-640px);
+    }
+    40% {
+        transform: translateX(-1280px);
+    }
+    60% {
+        transform: translateX(-1920px);
+    }
+    80% {
+        transform: translateX(-2560px);
+    }
+    100% {
+        transform: translateX(0);
+    }
 }
