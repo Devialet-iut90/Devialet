@@ -4,7 +4,7 @@
 
 .bloc {
     position: relative;
-    height: 100vh;
+    height: 25vh;
     width: 100%;
     overflow: hidden;
 }
@@ -12,7 +12,16 @@
 p {
     text-align: center;
     font-size:5em;
-    margin-top: 200px;
+    margin-top: 3px;
+    color: black;
+    text-shadow: 2px 2px 4px white;
+
+}
+
+h1 {
+    text-align: center;
+    font-size:4em;
+    margin-top: 20px;
     color: black;
     text-shadow: 2px 2px 4px white;
 
@@ -58,3 +67,16 @@ ul li a {
     color: white;
     font-size: 16px;
 }
+
+.image2 {
+    display: inline-block;
+    width:400px;
+    height: 400px;
+    border: 1px solid grey;
+}
+.flexible {
+    display: flex;
+    align-items: center;
+    margin: 1em;
+}
+.flexible div {padding: 1em}
