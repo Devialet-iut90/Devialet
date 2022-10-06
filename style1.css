@@ -14,21 +14,18 @@
     min-height: 100%;
     min-width: 100%;
     top: 50%;
-    left: 50%;
     z-index: -100;
+    left: 50%;
     transform: translate(-50%, -50%);
 }
 
 h1 {
-    font-family: 'Dacing Script'cursive;    
     text-align: center;
-    color: rgb(109, 104, 104);
     font-size:6em;
-    margin-top: 110px;
-    text-shadow: 1px 4px 2px whitesmoke;
-    /*
-            vérifie et change les couleurs si besoin
-    */
+    margin-top: 240px;
+    color: black;
+    text-shadow: 5px 2px 4px white;
+
 }
 
 #premiertrait{
@@ -60,13 +57,14 @@ nav {
     position: fixed;
     border-radius: 2em;
     border-color: black;
+    backdrop-filter: saturate(180%) blur(20px);
 }
 
 nav .logo {
     width: 120px;
-    height: 120px;
     cursor: pointer;
-}
+    margin: 30px;
+} 
 
 nav ul {
     display: flex;
