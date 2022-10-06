@@ -9,10 +9,10 @@
     overflow: hidden;
 }
 
-h1 {
+p {
     text-align: center;
-    font-size:6em;
-    margin-top: 240px;
+    font-size:2em;
+    margin-top: 100px;
     color: black;
     text-shadow: 5px 2px 4px white;
 
