@@ -1,7 +1,7 @@
 # Devialet
 
 ### Composition du groupe:
-Etudiant 1 (référent du groupe) :  AIT BOUKRIM smain.ait_boukrim@edu.univ-fcomte.fr
+Etudiant 1 (référent du groupe) :  [AIT BOUKRIM](mailto:smain.ait_boukrim@edu.univ-fcomte.fr?subject=SAE_1_05_06)
 Etudiant 2 : MOUGIN leo.mougin@edu.univ-fcomte.fr 
 Etudiant 3 : NERET antoine.neret@edu.univ-fcomte.fr
 Etudiant 4 : BONNEAU noah.bonneau@edu.univ-fcomte.fr
