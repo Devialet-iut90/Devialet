@@ -1,10 +1,10 @@
 # Devialet
 
 ### Composition du groupe:
-Etudiant 1 (référent du groupe) :  AIT BOUKRIM smain.ait_boukrim@edu.univ-fcomte.
+Etudiant 1 (référent du groupe) :  AIT BOUKRIM smain.ait_boukrim@edu.univ-fcomte.fr
 Etudiant 2 : MOUGIN leo.mougin@edu.univ-fcomte.fr 
 Etudiant 3 : NERET antoine.neret@edu.univ-fcomte.fr
-Etudiant 4 : BONNEAU noah.bonneau@edu.univ-fcomte.frfr?subject=SAE_1_05_06) 
+Etudiant 4 : BONNEAU noah.bonneau@edu.univ-fcomte.fr
 Etudiant 5 : AUBERT emma.aubert@edu.univ-fcomte.fr
 
 ## Ecran de zonning:
