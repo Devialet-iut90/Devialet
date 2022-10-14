@@ -19,4 +19,4 @@ du site:
 https://devialet-iut90.github.io/Devialet/Page1/devialet1.html
 
 du projet:
-https://github.com/Devialet-iut90/Devialet
+https://github.com/SBoukrim-iut90/Devialet
