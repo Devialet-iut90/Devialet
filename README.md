@@ -16,7 +16,7 @@ Etudiant 5 : [AUBERT](mailto:emma.aubert@edu.univ-fcomte.fr?subject=SAE_1_05_06)
 
 ### URL:
 du site:
-https://devialet-iut90.github.io/Devialet/Page1/devialet1.html
+https://SBoukrim-iut90.github.io/Devialet/Page1/devialet1.html
 
 du projet:
 https://github.com/SBoukrim-iut90/Devialet
