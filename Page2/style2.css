@@ -1,6 +1,9 @@
 * {
     margin: 0;
 }
+.flexible{
+    background-color: black;
+}
 
 .bloc {
     position: relative;
@@ -64,7 +67,7 @@ ul li a {
 .image2 {
     display: inline-block;
     width:700px;
-    height: 700px;
+    height: 700px;background-color: black;
     border: 1px solid grey;
 }
 .flexible {
@@ -158,4 +161,8 @@ footer{
   width:700px;
   height: 700px;
   z-index: -10;
+}
+
+.texte{
+    color: white;
 }
