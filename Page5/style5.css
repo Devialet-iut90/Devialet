@@ -1,14 +1,15 @@
 * {
     margin: 0;
+    overflow-x: hidden;
 }
 
 body{
-    background:linear-gradient(to top, #B0D7FF, white)
+    background:#D8D5DB
 }
 
 .bloc {
     position: relative;
-    height: 45vh;
+    height: 30vh;
     width: 100%;
     overflow: hidden;
 }
