@@ -32,6 +32,7 @@ nav {
     border-radius: 2em;
     border-color: black;
     backdrop-filter: saturate(180%) blur(20px);
+    z-index: 10;
 }
 
 nav .logo {
