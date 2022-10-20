@@ -165,6 +165,12 @@ footer{
     color: white;
 }
 
+.texte3 {
+  color: white;
+  text-align: center;
+  font-size: 2em;
+}
+
 .spoiler_flou {
 filter: blur(0px);
 transition-property: -webkit-filter;
