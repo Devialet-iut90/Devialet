@@ -152,7 +152,9 @@ footer{
     font-weight: 200;
 }
 
-.carousel{
-    height: 400px;
-    width: 800px;
+}
+.carousel-item{
+  display: inline-block;
+  width:700px;
+  height: 700px;
 }
