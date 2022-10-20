@@ -104,13 +104,22 @@ ul li a {
 .item{
     font-family: 'Oswald', sans-serif;
     text-align: left;
-    margin-top: 12%;
+    margin-top: 6%;
+   font-size: 22pt;
 }
 
 .item2{
     font-family: 'Oswald', sans-serif;
     text-align: right;
-    margin-top: 6%;
+    margin-top: 2%;
+    font-size: 20pt;
+}
+
+.item3{
+    font-family: 'Oswald', sans-serif;
+    text-align: left;
+    margin-top: 0%;
+   font-size: 22pt;
 }
 
 
