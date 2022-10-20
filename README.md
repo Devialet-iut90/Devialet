@@ -28,3 +28,6 @@ https://SBoukrim-iut90.github.io/Devialet/Page1/devialet1.html
 
 du projet:
 https://github.com/SBoukrim-iut90/Devialet
+
+validation W3C:
+https://SBoukrim-iut90.github.io/Devialet/doc/Attestation%validité%sur%W3C.pdf
