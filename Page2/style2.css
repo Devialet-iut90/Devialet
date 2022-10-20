@@ -151,3 +151,8 @@ footer{
     opacity: .4;
     font-weight: 200;
 }
+
+.carousel{
+    height: 400px;
+    width: 800px;
+}
