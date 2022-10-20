@@ -214,6 +214,10 @@ footer{
     margin-bottom: 10px;
 }
 
+.iut-logo img{
+    width: 100px;
+}
+
 @keyframes mesImages{
     0% {
         transform: translateX(0);
