@@ -4,7 +4,7 @@
 
 .bloc {
     position: relative;
-    height: 25vh;
+    height: 0vh;
     width: 100%;
     overflow: hidden;
 }
