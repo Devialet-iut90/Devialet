@@ -30,4 +30,4 @@ du projet:
 https://github.com/SBoukrim-iut90/Devialet
 
 validation W3C:
-https://SBoukrim-iut90.github.io/Devialet/doc/Attestation%validité%sur%W3C.pdf
+https://SBoukrim-iut90.github.io/Devialet/doc/Attestation_validité_sur_W3C.pdf
