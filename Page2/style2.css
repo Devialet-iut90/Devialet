@@ -170,9 +170,6 @@ footer{
   background:url('http://lorempixel.com/400/200/');
   filter:blur(5px)
 }
-div:hover{
-  filter:blur(0px)
-}
 
 .spoiler_flou {
 filter: blur(0px);
