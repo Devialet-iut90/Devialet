@@ -91,7 +91,23 @@ body {
 	text-decoration: none;
 }
 
-.button #en_savoir_plus:hover {
+.button #Retour:hover {
+	background-color: #272727;
+}
+
+.button #Retour {
+	background-color: #3b3b3b;
+	display: flex;
+	justify-content: center;
+	cursor: pointer;
+	color: white;
+	font-family: 'Roboto';
+	font-size: 15px;
+	padding: 15px 60px;
+	text-decoration: none;
+}
+
+.button #Retour:hover {
 	background-color: #272727;
 }
 
