@@ -7,7 +7,9 @@
     width: 700px;
     position: relative;
 }
-    
+
+.entete_card-title {
+    text align: center;
 
 .bloc {
     position: relative;
