@@ -205,3 +205,7 @@ filter: opacity(0.2);
   display: flex;
   justify-content: space-between;
 }
+
+.iut-logo img {
+    width: 100px;
+}
