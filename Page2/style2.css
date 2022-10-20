@@ -13,14 +13,11 @@
     background: linear-gradient(white, black);
 }
 
-
-h1 {
+.big {
     text-align: center;
-    font-size:4em;
+    font-size:8rem;
     margin-top: 20px;
-    color: black;
-    text-shadow: 2px 2px 4px white;
-
+    color: white;
 }
 
 nav {
@@ -166,4 +163,42 @@ footer{
 
 .texte{
     color: white;
+}
+
+.div{
+  width:400px; height:200px;
+  background:url('http://lorempixel.com/400/200/');
+  filter:blur(5px)
+}
+div:hover{
+  filter:blur(0px)
+}
+
+.spoiler_flou {
+filter: blur(0px);
+transition-property: -webkit-filter;
+transition-duration: .6s;
+width:700px;
+height: 700px;
+}
+
+.spoiler_flou:hover, .spoiler_flou:focus {
+filter: opacity(0.2);
+
+}
+
+.contenant {
+  position: relative;
+  text-align: center;
+  color: red;
+}
+
+.text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 100px;
+  width: 50px;
+  z-index: -1;
 }
