@@ -181,7 +181,7 @@ filter: opacity(0.2);
 .contenant {
   position: relative;
   text-align: center;
-  color: red;
+  color: white;
 }
 
 .text {
@@ -189,8 +189,8 @@ filter: opacity(0.2);
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  height: 400px;
-  width: 400px;
+  height: 100px;
+  width: 200px;
   z-index: -1;
 }
 
