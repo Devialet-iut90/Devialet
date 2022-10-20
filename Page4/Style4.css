@@ -9,6 +9,10 @@
     overflow: hidden;
 }
 
+.carousel1 {
+    height: 300px;
+    Width: 700px;
+    position: relative;
 nav {
     display: flex;
     justify-content: space-between;
