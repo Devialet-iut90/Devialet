@@ -193,3 +193,9 @@ filter: opacity(0.2);
   width: 400px;
   z-index: -1;
 }
+
+.ligne {
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+}
