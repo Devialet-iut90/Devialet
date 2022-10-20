@@ -178,8 +178,8 @@ div:hover{
 filter: blur(0px);
 transition-property: -webkit-filter;
 transition-duration: .6s;
-width:700px;
-height: 700px;
+width:400px;
+height: 400px;
 }
 
 .spoiler_flou:hover, .spoiler_flou:focus {
@@ -198,7 +198,7 @@ filter: opacity(0.2);
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  height: 100px;
-  width: 50px;
+  height: 400px;
+  width: 400px;
   z-index: -1;
 }
