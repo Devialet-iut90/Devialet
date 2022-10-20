@@ -1,19 +1,19 @@
 # Devialet
 
 ### Composition du groupe:
-Etudiant 1 (référent du groupe) :  [AIT BOUKRIM](mailto:smain.ait_boukrim@edu.univ-fcomte.fr?subject=SAE_1_05_06)
-Etudiant 2 : [MOUGIN](mailto:leo.mougin@edu.univ-fcomte.fr?subject=SAE_1_05_06)
-Etudiant 3 : [NERET](mailto:antoine.neret@edu.univ-fcomte.fr?subject=SAE_1_05_06)
-Etudiant 4 : [BONNEAU](mailto:noah.bonneau@edu.univ-fcomte.fr?subject=SAE_1_05_06)
-Etudiant 5 : [AUBERT](mailto:emma.aubert@edu.univ-fcomte.fr?subject=SAE_1_05_06)
+* Etudiant 1 (référent du groupe) :  [AIT BOUKRIM](mailto:smain.ait_boukrim@edu.univ-fcomte.fr?subject=SAE_1_05_06)
+* Etudiant 2 : [MOUGIN](mailto:leo.mougin@edu.univ-fcomte.fr?subject=SAE_1_05_06)
+* Etudiant 3 : [NERET](mailto:antoine.neret@edu.univ-fcomte.fr?subject=SAE_1_05_06)
+* Etudiant 4 : [BONNEAU](mailto:noah.bonneau@edu.univ-fcomte.fr?subject=SAE_1_05_06)
+* Etudiant 5 : [AUBERT](mailto:emma.aubert@edu.univ-fcomte.fr?subject=SAE_1_05_06)
 
 ## Auteur Pages
 
-Page d'accueil: AIT BOUKRIM Smaïn
-Page présentation: AUBERT Emma
-Page Histoire: MOUGIN Léo
-Page Article: BONNEAU Noah
-Page Ecologie: NERET Antoine
+* Page d'accueil: AIT BOUKRIM Smaïn
+* Page présentation: AUBERT Emma
+* Page Histoire: MOUGIN Léo
+* Page Article: BONNEAU Noah
+* Page Ecologie: NERET Antoine
 
 ## Ecran de zonning:
 ![écran de zonning](doc/zonning.png)
