@@ -165,12 +165,6 @@ footer{
     color: white;
 }
 
-.div{
-  width:400px; height:200px;
-  background:url('http://lorempixel.com/400/200/');
-  filter:blur(5px)
-}
-
 .spoiler_flou {
 filter: blur(0px);
 transition-property: -webkit-filter;
