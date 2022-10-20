@@ -157,4 +157,5 @@ footer{
 .carousel-item{
   width:700px;
   height: 700px;
+  z-index: -10;
 }
