@@ -209,3 +209,9 @@ filter: opacity(0.2);
 .iut-logo img {
     width: 100px;
 }
+
+.Rapport-Eco button{
+        display: flex;
+        background-color: #000;
+        color: #FFF;
+    }
