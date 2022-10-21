@@ -14,6 +14,8 @@
 
 P {
  text-align: center;
+ color: white;
+}
 
 .bloc {
     position: relative;
