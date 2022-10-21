@@ -12,6 +12,9 @@
     text align: center;
 }
 
+P {
+ text-align: center;
+
 .bloc {
     position: relative;
     height: 0vh;
