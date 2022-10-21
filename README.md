@@ -15,7 +15,7 @@
 * Page Article: BONNEAU Noah
 * Page Ecologie: NERET Antoine
 
-# Auteur écran de zooning:
+#### Auteur écran de zooning:
 MOUGIN Léo
 
 ## Ecran de zonning:
