@@ -31,3 +31,6 @@ https://github.com/SBoukrim-iut90/Devialet
 
 validation W3C:
 https://SBoukrim-iut90.github.io/Devialet/doc/Attestation_validité_sur_W3C.pdf
+
+Livrable partie “Économie et Documents numérique”
+https://SBoukrim-iut90.github.io/Devialet/doc/RapportEconomiqueGroupe9-Devialet.pdf
