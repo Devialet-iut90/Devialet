@@ -14,7 +14,11 @@
 
 P {
  text-align: center;
- color: black;
+ color: white;
+}
+
+.card-text {
+    color: black;
 }
 
 .bloc {
